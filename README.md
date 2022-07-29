@@ -1,2 +1,32 @@
 # WooCommerce-Plugins-Extendons
-Plugins by Extendons to improve and empower your WooCommerce store.
+## Plugins by Extendons to improve and empower your WooCommerce store.
+
+* [Conditional Checkout Fields for WooCommerce](https://woocommerce.com/products/conditional-checkout-fields-for-woocommerce/) - Create customized checkout fields and edit, delete, hide, or add custom fields to checkout page.
+* [Product Variations Table for WooCommerce](https://woocommerce.com/products/product-variations-table-for-woocommerce/) - Enlist product variations in a table so customers can easily sort and buy from the product page.
+* [Custom User Defined Pricing for WooCommerce](https://woocommerce.com/products/custom-user-defined-pricing-for-woocommerce/) - Let customers decide what they want to pay within the limits you define.
+* [Sales Countdown Timer for WooCommerce](https://woocommerce.com/products/sales-countdown-timer-for-woocommerce/) - Create urgency by displaying sales with countdown timer to increase sales of your WooCommerce store.
+* [Shop as a Customer for WooCommerce](https://woocommerce.com/products/shop-as-a-customer-for-woocommerce/) - Shop as a customer and place orders for offline users who are unable to do online shopping.
+* [Product Gallery Slider for WooCommerce](https://woocommerce.com/products/product-gallery-slider-for-woocommerce/)- Add image slider to the product page and auto-play the image slider to display maximum gallery images.
+* [Product Per Page for WooCommerce](https://woocommerce.com/products/product-per-page-for-woocommerce/) - Allow customers to change number of products per page on WooCommerce shop to view maximum number of products.
+* [Clear Cart and Sessions for WooCommerce](https://woocommerce.com/products/clear-cart-and-sessions-for-woocommerce/) - schedule cart and session clearance for inactive customers for better control of cart.
+* [Quantity Buttons for WooCommerce](https://woocommerce.com/products/quantity-buttons-for-woocommerce/) - Display quantity increment and decrement buttons on the cart, product, and collectio pages of your WooCommerce store.
+* [Migrate & Import Shopify to WooCommerce](https://woocommerce.com/products/migrate-import-shopify-to-woocommerce/) - Migrate your store from Shopify to WooCommerce with the Migrate & Import Shopify to WooCommerce plugin.
+* [Registration & Login with Mobile Phone Number](https://woocommerce.com/products/registration-login-with-mobile-phone-number/) - Allow customers to register or login to your WooCommerce store with mobile phone number.
+* [Live Sales Notifications for WooCommerce](https://woocommerce.com/products/live-sales-notifications-for-woocommerce/) - Display live sales on your WooCommerce store to engage customers, increase credibility, and improve conversions.
+* [Google AutoFill Customer Addresses](https://woocommerce.com/products/google-autofill-customer-addresses/) - Auto-fill customers address information o checkout page using Google API and save their valuable time.
+* [Add Featured Videos in Product Gallery](https://woocommerce.com/products/add-featured-videos-in-product-gallery/) - Add featured videos on the product, shop, and category pages of your WooCommerce store.
+* [Product Listing Page with List and Grid View](https://woocommerce.com/products/product-listing-page-with-list-grid-view/) - Transform your WooCommerce default catalog view into a dedicated list and grid view.
+* [Customer Upload Files for WooCommerce](https://woocommerce.com/products/customer-upload-files-for-woocommerce/) - Allow customers to upload files on product, cart, and checkout page to receive custom requests.
+* [Order on WhatsApp for WooCommerce](https://woocommerce.com/products/order-on-whatsapp-for-woocommerce/) - Let customers place orders by using WhatsApp by displaying WhatsApp button on the product, cart, and shop pages.
+* [Audio Player for WooCommerce](https://woocommerce.com/products/audio-player-for-woocommerce/) - Play or sell audio files on your store by allowing users to to listen and purchase audio files with the audio player plugin.
+* [Facebook Messenger Chatbot for WooCommerce](https://woocommerce.com/products/facebook-messenger-chatbot-for-woocommerce/) - Automate customer support and engage users with the Facebook messenger chatbot for WooCommerce plugin.
+* [Biometric Login for WooCommerce](https://woocommerce.com/products/biometric-login-for-woocommerce/) - Gain customer trust and increase store security by adding biometric login to your WooCommerce store.
+* [Cart Discounts for WooCommerce](https://woocommerce.com/products/cart-discounts-for-woocommerce/) - Reduce cart abandonment and increase revenue by offering discounts on cart based on different rules.
+* [Custom Shipping Icons for WooCommerce](https://woocommerce.com/products/custom-shipping-icons-for-woocommerce/) - Display engaging and user-friendly shipping icons so customers can easily select shipping method.
+* [Price Guaranteed for WooCommerce](https://woocommerce.com/products/price-guaranteed-for-woocommerce/) - Offer customers a price guarantee and beat pricing strategy of competitors with the Price Guaranteed for WooCommerce plugin.
+* [Cart Limits for WooCommerce](https://woocommerce.com/products/cart-limits-for-woocommerce/) - Apply limits to orders purchase based on cart amount, cart items, and product quantity to enforce checkout restrictions.
+* [User Role Editor](https://woocommerce.com/products/user-roles-editor-for-woocommerce/) - Automatically assign and switch user roles based on conditions related to products and cart and reduce administrative tasks.
+* [Customer Order Cancellation for WooCommerce](https://woocommerce.com/products/customer-order-cancellation-for-woocommerce/) - Allow customers to cancel order requests or approve or disapprove cancellation requests to built trust with users.
+* [Open Close Store Hours for WooCommerce](https://woocommerce.com/products/open-close-store-hours-for-woocommerce/) - Automatically open and close your WooCommerce store during business hours and holiday season. Setup store routine and stop taking orders during store closure.
+* [Free Shipping Bar for WooCommerce](https://woocommerce.com/products/free-shipping-bar-for-woocommerce/) - Encourage customers to purchase more by displaying a free shipping bar on your WooCommerce store.
+* [WhatsApp Chat for WooCommerce](https://woocommerce.com/products/whatsapp-chat-for-woocommerce/) - Make it easy for customers to contact and talk with your support team through WhatsApp chat.
